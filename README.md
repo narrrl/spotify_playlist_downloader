@@ -34,7 +34,7 @@ or use the package manager of your choice
 
 5. Get credentials for spotify
 
-Go to the [Spotify developer dashboard](https://developer.spotify.com/dashboard/) and create a client id and secret and past it into the [.env file](./.env).
+Go to the [Spotify developer dashboard](https://developer.spotify.com/dashboard/) and create a client id and secret and paste it into the [.env file](./.env).
 
 6. Start downloading
 
