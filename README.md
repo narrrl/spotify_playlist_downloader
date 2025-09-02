@@ -1,7 +1,6 @@
-# spotify playlist downloader
+# spotify scripts 
 
-A simple script to download spotify playlists from youtube
-
+A collection of simple spotify scripts to extend functionallity
 
 ## Usage
 
@@ -23,7 +22,7 @@ python3 -m venv venv
 pip install python-dotenv spotipy
 ```
 
-4. Install yt-dlp
+4. Install yt-dlp (optional for downloader)
 
 ```
 sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
@@ -39,5 +38,5 @@ Go to the [Spotify developer dashboard](https://developer.spotify.com/dashboard/
 6. Start downloading
 
 ```
-python spotify_downloader.py 'YOUR_SPOTIFY_PLAYLIST_URL'
+python <script>.py 'YOUR_SPOTIFY_PLAYLIST_URL'
 ```
